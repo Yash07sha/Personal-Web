@@ -1,2 +1,2 @@
-# Personal-Web
+# yashdoit.github.io
 Portfolio website
